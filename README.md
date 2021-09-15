@@ -21,6 +21,8 @@ The code can be run in a python environment containing the following libraries:
 - pandas
 - scipy
 
+For inexperienced python users we strongly suggest using the anaconda python distribution, which includes all the required libraries. 
+
 All code has been tested on Python version 3.7
 
 
